@@ -75,18 +75,6 @@ biblioteca/
  
 ---
  
-## 🚀 Como subir no GitHub
- 
-```bash
-git init
-git add .
-git commit -m "feat: sistema de gerenciamento de biblioteca em Java 21"
-git remote add origin https://github.com/seu-usuario/biblioteca-java.git
-git branch -M main
-git push -u origin main
-```
- 
----
  
 ## 📐 Regras de negócio
  
