@@ -63,18 +63,6 @@ biblioteca/
         └── ArquivoUtil.java    ← Java NIO com Path.of()
 ```
  
----
- 
-## ▶️ Como executar no IntelliJ IDEA
- 
-1. `File → Open` → selecione a pasta `biblioteca/`
-2. `File → Project Structure → SDK` → selecione **Java 21**
-3. Clique direito em `src/main/java` → `Mark Directory as → Sources Root`
-4. Abra `Main.java` e clique ▶
-> A pasta `data/` é criada automaticamente na primeira execução.
- 
----
- 
  
 ## 📐 Regras de negócio
  
